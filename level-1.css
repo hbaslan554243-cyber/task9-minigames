@@ -1,0 +1,16 @@
+.center {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 40rem;
+}
+
+.btn {
+  padding: 30px 100px;   /* height & width */
+  font-size: 16px;      /* text size */
+  width: 120px;         /* optional fixed width */
+}
+
