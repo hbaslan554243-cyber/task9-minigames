@@ -1,0 +1,6 @@
+{
+  "rewrite":[
+    { "source": "/(.*)", "destination": "/level-1.html"}
+  ]
+
+}
